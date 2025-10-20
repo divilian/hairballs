@@ -1,3 +1,7 @@
 public class Hairball {
-    private int sizeInLbs;
+    private int sizeInKG;
+
+    void spit() {
+        System.out.println("GROSS!");
+    }
 }
